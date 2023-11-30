@@ -1,0 +1,62 @@
+.header{
+    box-shadow: 2px 1px 2px #eee; 
+    margin: 30px;  
+    padding-bottom: 30px;
+}
+.logo{
+
+    display: inline-block;
+    
+    margin-left: 350px;
+    padding-right: 550px;
+}
+
+.navbar{
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+.link{
+    
+    padding: 20px;
+    color: #00000080;
+    
+}
+
+.link:hover{
+    color: #387ed1;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+
+.content{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: #424242;
+}
+
+.action{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color: white;
+    background-color: #387ed1;
+    border-radius: 5px;
+    padding: 10px 50px 10px 50px;
+    box-sizing: border-box;
+    border-color:#387ed1;
+}
+
+button:hover{
+    background-color: black;
+    border-color: black;
+
+}
